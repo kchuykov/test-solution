@@ -6,12 +6,12 @@ npm install
 
 Execute solution script
 <code>
-npm run cypress:run
+npm run test
 </code>
 
 Execute solution script in chrome
 <code>
-npm run cypress:run:chrome
+npm run test:chrome
 </code>
 
 View output result in result.txt file
